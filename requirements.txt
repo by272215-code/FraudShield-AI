@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+networkx
+reportlab
+pdfplumber
+python-docx
+pillow
+pytesseract
